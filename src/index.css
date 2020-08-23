@@ -5,6 +5,159 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+h1 {
+  color : black;
+}
+
+h2,label {
+    color: white;
+}
+
+.button {
+    margin: 5px;
+    padding: 5px;
+}
+.button:hover{
+  background-color: white;
+  font-weight: bold;
+}
+
+a{
+  background-color: black;
+  color: white;
+  padding: .5em 1em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:link {
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.buttonFire{
+  color: white;
+  background-color: lightcoral;
+}
+.buttonFire:hover{
+  background-color: red;
+}
+.buttonWater{
+  color: white;
+  background-color: lightskyblue;
+}
+.buttonWater:hover{
+  background-color: blue;
+}
+.buttonWind{
+  color: white;
+  background-color: burlywood;
+}
+.buttonWind:hover{
+  background-color: chocolate;
+}
+.buttonLight{
+  color: black;
+  background-color: white;
+}
+.buttonLight:hover{
+  background-color: silver;
+}
+.buttonDark{
+  color: white;
+  background-color:purple;
+}
+.buttonDark:hover{
+  background-color:rebeccapurple;
+}
+.buttonType{
+  color: white;
+  background-color: black;
+}
+.buttonType:hover{
+  background-color: gray;
+}
+
+
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: lightblue;
+}
+.Titletag{
+  
+  
+}
+
+.contact{
+  padding-right: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+h5{
+  margin: 5%;
+}
+
+.spanEstate label{
+  font: bold;
+  text-transform: uppercase;
+}
+
+
+
+.title {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  position: -webkit-sticky;
+  position:sticky;
+  top: 0;
+  width: 100%;
+}
+
+
+li{
+  color: white;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+li:hover{
+  font-size: larger;
+}
+
+input{
+  cursor: pointer;
+}
+
+
+.fire{
+  color : lightcoral;
+  font-weight: bold;
+}
+.water{
+  color : lightblue;
+  font-weight: bold;
+}
+.wind{
+  color : burlywood;
+  font-weight: bold;
+}
+.light{
+  color : white;
+  font-weight: bold;
+}
+.dark{
+  color : purple;
+  font-weight: bold;
 }
 
 code {
