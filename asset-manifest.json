@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tendalgo-search-engine/static/css/main.45cdea0e.chunk.css",
+    "main.js": "/tendalgo-search-engine/static/js/main.b738c8db.chunk.js",
+    "main.js.map": "/tendalgo-search-engine/static/js/main.b738c8db.chunk.js.map",
+    "runtime-main.js": "/tendalgo-search-engine/static/js/runtime-main.86a75e04.js",
+    "runtime-main.js.map": "/tendalgo-search-engine/static/js/runtime-main.86a75e04.js.map",
+    "static/js/2.7ccde67e.chunk.js": "/tendalgo-search-engine/static/js/2.7ccde67e.chunk.js",
+    "static/js/2.7ccde67e.chunk.js.map": "/tendalgo-search-engine/static/js/2.7ccde67e.chunk.js.map",
+    "index.html": "/tendalgo-search-engine/index.html",
+    "precache-manifest.5c43b57283722841570a1ade40bb25b6.js": "/tendalgo-search-engine/precache-manifest.5c43b57283722841570a1ade40bb25b6.js",
+    "service-worker.js": "/tendalgo-search-engine/service-worker.js",
+    "static/css/main.45cdea0e.chunk.css.map": "/tendalgo-search-engine/static/css/main.45cdea0e.chunk.css.map",
+    "static/js/2.7ccde67e.chunk.js.LICENSE.txt": "/tendalgo-search-engine/static/js/2.7ccde67e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a75e04.js",
+    "static/js/2.7ccde67e.chunk.js",
+    "static/css/main.45cdea0e.chunk.css",
+    "static/js/main.b738c8db.chunk.js"
+  ]
+}
