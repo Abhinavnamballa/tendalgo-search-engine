@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tendalgo-search-engine/precache-manifest.5c43b57283722841570a1ade40bb25b6.js"
+  "/tendalgo-search-engine/precache-manifest.fe3a06bf1e63166c9e627919cc6ebff3.js"
 );
 
 self.addEventListener('message', (event) => {
