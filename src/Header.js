@@ -25,10 +25,7 @@ render(){
         <h5>Version 1.0.0</h5>
         </span>
         <span className="contact">
-            <h5>Suggestions? <br></br> Contact Me:</h5>
-            <h5><a href="https://www.twitch.tv/tendime" target="_blank">Twitch.tv/Tendime</a></h5>
-            <h5><a href="https://twitter.com/wisptendime" target="_blank">Twitter/@WispTendime</a></h5>
-            
+            <h5>Suggestions? <br></br> Contact Me:</h5>            
         </span>
 
     </div>
